@@ -22,7 +22,7 @@ Dễ Tùy Biến
 
 Hệ thống được xây dựng để dễ dàng tùy chỉnh và phát triển theo nhu cầu từng dự án. Bạn có thể thêm các trường dữ liệu mới, điều chỉnh bố cục giao diện, và mở rộng tính năng một cách linh hoạt qua Google Sheet
 
-Demo: https://tranquocnhat94.github.io/CRM-1.0/](https://tranquocnhat94.github.io/CRM-Google-script-app/
+Demo: https://tranquocnhat94.github.io/CRM-Google-script-app/
 
 dữ liệu và cài đặt: https://docs.google.com/spreadsheets/d/1_HfrSKnifUwGMf99NLBwLVhlQiDUCsOrm-6NDqopduc/edit#gid=0
 
