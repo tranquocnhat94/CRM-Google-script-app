@@ -24,10 +24,11 @@ Hệ thống CRM này được xây dựng trên nền tảng Google Script App,
 
 - [Google Sheet - Dữ liệu](https://docs.google.com/spreadsheets/d/1_HfrSKnifUwGMf99NLBwLVhlQiDUCsOrm-6NDqopduc/edit#gid=0).
 
-## Google Sheet chứa code
+## Code
 
 - [Google Sheet - Chứa code & Hướng dẫn](https://docs.google.com/spreadsheets/d/1k3bnZGVfs6dRbi8ecuzMBmaf45yxHP89tY0uS1Lp_GA/).
   
+- Tạo bản sao -> Tiện ích mở rộng -> Apps Script -> Thay link dẫn đến Sheet dữ liệu, Link dẫn đến Google Site, link thư mục Drive.
 
 ## Đóng Góp
 
