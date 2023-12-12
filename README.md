@@ -18,9 +18,11 @@ Hệ thống CRM này được xây dựng trên nền tảng Google Script App,
 - Tương Thích Google Sheets, Google Calendar, Google Drive, Gmail...
 - Dễ Tùy Biến
 
-## Hướng Dẫn Sử Dụng
+## Demo
 
-Thông tin chi tiết về cách cài đặt và sử dụng có thể được tìm thấy trong [hướng dẫn cài đặt](link_cai_dat).
+- [CRM](https://tranquocnhat94.github.io/CRM-Google-script-app/).
+
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1_HfrSKnifUwGMf99NLBwLVhlQiDUCsOrm-6NDqopduc/edit#gid=0).
 
 ## Đóng Góp
 
