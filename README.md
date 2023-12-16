@@ -22,6 +22,14 @@ Hệ thống CRM này được xây dựng trên nền tảng Google Script App,
 
 - [CRM](https://tranquocnhat94.github.io/CRM-Google-script-app/).
 
+  - Admin: 
+     - Tên đăng nhập: 999
+     - mật khẩu: 999
+       
+  - User: 
+     - Tên đăng nhập: 888
+     - mật khẩu: 888
+
 - [Google Sheet - Dữ liệu](https://docs.google.com/spreadsheets/d/1_HfrSKnifUwGMf99NLBwLVhlQiDUCsOrm-6NDqopduc/edit#gid=0).
 
 ## Code
